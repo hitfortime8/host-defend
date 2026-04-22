@@ -33,3 +33,7 @@
 Шифрование нового раздела
 
 ![second_step](img/second_step.png)
+
+Деменстрация зашифрованного раздела
+
+![encrypted_part](img/encrypted_part.png)
